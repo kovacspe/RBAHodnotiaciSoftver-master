@@ -1,0 +1,4 @@
+Team1;Vymyslena skola 1;Jozko;null;null;true;true;true
+Team2;Vymyslena skola 2;Fero;Pavol;Peter;true;false;true
+Team3;Vymyslena skola 3;Jozko;Janko;null;false;true;true
+Team4;Vymyslena skola 4;Lacko;Janko;null;true;true;true

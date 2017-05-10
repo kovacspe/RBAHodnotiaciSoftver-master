@@ -1,0 +1,2 @@
+cz.cuni.mff.kovacspe.rbahodnotiacisoftver.NoResultsFoundException
+cz.cuni.mff.kovacspe.rbahodnotiacisoftver.RVTournamentPair
